@@ -1,0 +1,23 @@
+{
+  "name": "webpack-begin",
+  "description": "Using webpack lazyload javascript angular",
+  "main": "index.js",
+  "authors": [
+    "braciesxavi <rubiken9\"gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "asset/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.5",
+    "angular-ui-router": "^0.2.18",
+    "oclazyload": "ocLazyLoad#^1.0.9"
+  }
+}

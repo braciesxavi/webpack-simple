@@ -1,0 +1,11 @@
+{
+  "name": "webpack-begin",
+  "version": "1.0.0",
+  "description": "Using webpack lazyload javascript angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --content-base=asset/builds --history-api-fallback --progress"
+  },
+  "author": "",
+  "license": "ISC"
+}
